@@ -1,0 +1,13 @@
+
+.row-table{
+    height: 40px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+    padding: 10px;
+    color: white;
+}
+
+.card-dashboard{
+    box-shadow: 0px 10px 70px -10px rgba(0, 127, 255, 0.30);
+}
