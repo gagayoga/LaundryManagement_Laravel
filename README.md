@@ -1,3 +1,14 @@
+Program Management Laundry Tugas PWPB ATS SEMESTER 1 XII RPL 
+
+![Login_Page](https://github.com/gagayoga/LaundryManagement_Laravel/assets/115129122/f9a52cce-0b5b-4963-adea-b14eaf639e5d)
+
+![Register_Page](https://github.com/gagayoga/LaundryManagement_Laravel/assets/115129122/603133b1-c6b5-4308-80f3-67f4ac709ba6)
+
+![Dashboard_Page](https://github.com/gagayoga/LaundryManagement_Laravel/assets/115129122/46f24bbc-1e31-4948-833a-3df02e1ba9b0)
+
+![Paket_Page](https://github.com/gagayoga/LaundryManagement_Laravel/assets/115129122/e01a4396-6241-4e7f-8490-ce885d231625)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
